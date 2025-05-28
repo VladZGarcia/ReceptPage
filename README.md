@@ -1,1 +1,1 @@
-Small project for Lexicon course.
+Small fork of a project for Lexicon course.
